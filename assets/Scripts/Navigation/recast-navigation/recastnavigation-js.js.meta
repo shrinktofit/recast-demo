@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.13",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "b53f942e-7a9d-4561-9bb8-3c7ea6324301",
+  "files": [
+    ".js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/Navigation/recast-navigation/recastnavigation-js.js"
+  }
+}
