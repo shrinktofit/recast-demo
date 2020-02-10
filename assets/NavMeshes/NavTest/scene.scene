@@ -29,9 +29,6 @@
       },
       {
         "__id__": 104
-      },
-      {
-        "__id__": 106
       }
     ],
     "_active": true,
@@ -39,7 +36,7 @@
     "_prefab": null,
     "autoReleaseAssets": false,
     "_globals": {
-      "__id__": 108
+      "__id__": 106
     },
     "_id": "33381ffe-8391-40ee-bb2f-9c12089661e1"
   },
@@ -2947,77 +2944,15 @@
     "_id": "f1ehvjCPtEgKnj2NdtR15d"
   },
   {
-    "__type__": "cc.Node",
-    "_name": "WayPoint",
-    "_objFlags": 0,
-    "_parent": {
-      "__id__": 1
-    },
-    "_children": [],
-    "_active": false,
-    "_components": [
-      {
-        "__id__": 107
-      }
-    ],
-    "_lpos": {
-      "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "_lrot": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
-    "_lscale": {
-      "__type__": "cc.Vec3",
-      "x": 0.1,
-      "y": 0.1,
-      "z": 0.1
-    },
-    "_layer": 1073741824,
-    "_euler": {
-      "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 0,
-      "z": 0
-    },
-    "_id": "fcthw0wbJBPLguuGsmhcpl"
-  },
-  {
-    "__type__": "cc.ModelComponent",
-    "_name": "Sphere<ModelComponent>",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 106
-    },
-    "_enabled": true,
-    "_materials": [
-      {
-        "__uuid__": "57d4a296-2e84-40ba-bb46-4b18d8cf8347"
-      }
-    ],
-    "_visFlags": 0,
-    "_mesh": {
-      "__uuid__": "1263d74c-8167-4928-91a6-4e2672411f47@17020"
-    },
-    "_shadowCastingMode": 0,
-    "_id": "41QYjkl+5C362ynwTrkPGj"
-  },
-  {
     "__type__": "cc.SceneGlobals",
     "ambient": {
-      "__id__": 109
+      "__id__": 107
     },
     "planarShadows": {
-      "__id__": 110
+      "__id__": 108
     },
     "_skybox": {
-      "__id__": 111
+      "__id__": 109
     }
   },
   {
